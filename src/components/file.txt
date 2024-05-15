@@ -1,0 +1,5 @@
+
+In the homepage, we will be having only 4 blogs and we'll get them from backend, take their photo and content in and when user clicks on it, he will be oriented to blog page to view it.
+
+The user will not need to login to write a blog, just when signed in, he will be given an option to craete, delete and update a blog.
+

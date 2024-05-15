@@ -1,0 +1,17 @@
+ {
+ "image": [
+    {
+    "id":1,
+    "scr":"./img/image-1.png"
+    },
+    {
+    "id":2,
+    "scr":"./img/image-2.png"
+    },
+    {
+    "id":3,
+    "scr":"./img/image-3.png"
+    }
+]
+
+ }
